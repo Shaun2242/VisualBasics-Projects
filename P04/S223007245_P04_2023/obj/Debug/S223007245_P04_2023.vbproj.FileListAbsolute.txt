@@ -1,0 +1,31 @@
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.exe.config
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.exe
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.pdb
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.xml
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\shaun\Desktop\S223007245_P04_2023\bin\Debug\UJGrid.dll
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.AssemblyReference.cache
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.exe.config
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.frmGym.resources
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.Resources.resources
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.GenerateResource.cache
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.CoreCompileInputs.cache
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.CopyComplete
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.exe
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.xml
+C:\Users\shaun\Desktop\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.pdb
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.exe.config
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.exe
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.pdb
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\bin\Debug\S223007245_P04_2023.xml
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.AssemblyReference.cache
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.exe.config
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.frmGym.resources
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.Resources.resources
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.GenerateResource.cache
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.CoreCompileInputs.cache
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.vbproj.CopyComplete
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.exe
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.xml
+C:\Users\shaun\Desktop\Subjects\IFMO1B1\PRACTICAL ANSWERS\S223007245_P04_2023\obj\Debug\S223007245_P04_2023.pdb
